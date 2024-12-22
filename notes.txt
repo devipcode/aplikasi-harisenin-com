@@ -1,0 +1,4 @@
+resolve conflict :
+git pull origin develop
+git checkout feat/login
+git merge develop
